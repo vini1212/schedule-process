@@ -1,0 +1,132 @@
+
+Dados Finais para: 
+ Numero de CPUS: 1
+ Quantidade de memória: 320
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 25
+chegada: 12, lancamento: 13, duracao projetada: 23, duracao observada: 34
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 65
+chegada: 0, lancamento: 1, duracao projetada: 14, duracao observada: 72
+chegada: 4, lancamento: 58, duracao projetada: 8, duracao observada: 75
+chegada: 5, lancamento: 82, duracao projetada: 20, duracao observada: 136
+chegada: 27, lancamento: 59, duracao projetada: 32, duracao observada: 117
+chegada: 6, lancamento: 102, duracao projetada: 12, duracao observada: 141
+chegada: 20, lancamento: 103, duracao projetada: 20, duracao observada: 136
+
+Dados Finais para: 
+ Numero de CPUS: 1
+ Quantidade de memória: 640
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 25
+chegada: 12, lancamento: 13, duracao projetada: 23, duracao observada: 34
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 65
+chegada: 0, lancamento: 1, duracao projetada: 14, duracao observada: 72
+chegada: 4, lancamento: 58, duracao projetada: 8, duracao observada: 75
+chegada: 5, lancamento: 82, duracao projetada: 20, duracao observada: 136
+chegada: 27, lancamento: 59, duracao projetada: 32, duracao observada: 117
+chegada: 6, lancamento: 102, duracao projetada: 12, duracao observada: 141
+chegada: 20, lancamento: 103, duracao projetada: 20, duracao observada: 136
+
+Dados Finais para: 
+ Numero de CPUS: 2
+ Quantidade de memória: 320
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 12
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 15
+chegada: 12, lancamento: 12, duracao projetada: 23, duracao observada: 23
+chegada: 0, lancamento: 23, duracao projetada: 14, duracao observada: 39
+chegada: 4, lancamento: 33, duracao projetada: 8, duracao observada: 42
+chegada: 5, lancamento: 5, duracao projetada: 20, duracao observada: 68
+chegada: 6, lancamento: 52, duracao projetada: 12, duracao observada: 69
+chegada: 27, lancamento: 34, duracao projetada: 32, duracao observada: 49
+chegada: 20, lancamento: 53, duracao projetada: 20, duracao observada: 65
+
+Dados Finais para: 
+ Numero de CPUS: 2
+ Quantidade de memória: 640
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 15
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 28
+chegada: 12, lancamento: 12, duracao projetada: 23, duracao observada: 23
+chegada: 0, lancamento: 0, duracao projetada: 14, duracao observada: 35
+chegada: 4, lancamento: 23, duracao projetada: 8, duracao observada: 35
+chegada: 5, lancamento: 39, duracao projetada: 20, duracao observada: 65
+chegada: 6, lancamento: 49, duracao projetada: 12, duracao observada: 67
+chegada: 27, lancamento: 30, duracao projetada: 32, duracao observada: 47
+chegada: 20, lancamento: 50, duracao projetada: 20, duracao observada: 62
+
+Dados Finais para: 
+ Numero de CPUS: 3
+ Quantidade de memória: 320
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 12
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 15
+chegada: 12, lancamento: 12, duracao projetada: 23, duracao observada: 23
+chegada: 0, lancamento: 23, duracao projetada: 14, duracao observada: 37
+chegada: 4, lancamento: 37, duracao projetada: 8, duracao observada: 41
+chegada: 6, lancamento: 6, duracao projetada: 12, duracao observada: 45
+chegada: 5, lancamento: 5, duracao projetada: 20, duracao observada: 46
+chegada: 27, lancamento: 35, duracao projetada: 32, duracao observada: 40
+chegada: 20, lancamento: 51, duracao projetada: 20, duracao observada: 51
+
+Dados Finais para: 
+ Numero de CPUS: 3
+ Quantidade de memória: 640
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 13
+chegada: 4, lancamento: 4, duracao projetada: 8, duracao observada: 13
+chegada: 0, lancamento: 0, duracao projetada: 14, duracao observada: 18
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 15
+chegada: 12, lancamento: 12, duracao projetada: 23, duracao observada: 23
+chegada: 6, lancamento: 23, duracao projetada: 12, duracao observada: 40
+chegada: 5, lancamento: 18, duracao projetada: 20, duracao observada: 42
+chegada: 20, lancamento: 24, duracao projetada: 20, duracao observada: 34
+chegada: 27, lancamento: 27, duracao projetada: 32, duracao observada: 32
+
+Dados Finais para: 
+ Numero de CPUS: 4
+ Quantidade de memória: 640
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 12
+chegada: 0, lancamento: 0, duracao projetada: 14, duracao observada: 14
+chegada: 4, lancamento: 4, duracao projetada: 8, duracao observada: 14
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 15
+chegada: 5, lancamento: 8, duracao projetada: 20, duracao observada: 25
+chegada: 6, lancamento: 18, duracao projetada: 12, duracao observada: 26
+chegada: 12, lancamento: 12, duracao projetada: 23, duracao observada: 23
+chegada: 20, lancamento: 21, duracao projetada: 20, duracao observada: 22
+chegada: 27, lancamento: 27, duracao projetada: 32, duracao observada: 32
+
+Dados Finais para: 
+ Numero de CPUS: 4
+ Quantidade de memória: 960
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 12
+chegada: 4, lancamento: 4, duracao projetada: 8, duracao observada: 8
+chegada: 0, lancamento: 0, duracao projetada: 14, duracao observada: 14
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 15
+chegada: 6, lancamento: 14, duracao projetada: 12, duracao observada: 21
+chegada: 5, lancamento: 5, duracao projetada: 20, duracao observada: 25
+chegada: 12, lancamento: 12, duracao projetada: 23, duracao observada: 23
+chegada: 20, lancamento: 21, duracao projetada: 20, duracao observada: 21
+chegada: 27, lancamento: 27, duracao projetada: 32, duracao observada: 32
+
+Dados Finais para: 
+ Numero de CPUS: 5
+ Quantidade de memória: 1024
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 12
+chegada: 4, lancamento: 4, duracao projetada: 8, duracao observada: 8
+chegada: 0, lancamento: 0, duracao projetada: 14, duracao observada: 14
+chegada: 6, lancamento: 6, duracao projetada: 12, duracao observada: 16
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 15
+chegada: 5, lancamento: 5, duracao projetada: 20, duracao observada: 20
+chegada: 12, lancamento: 12, duracao projetada: 23, duracao observada: 23
+chegada: 20, lancamento: 20, duracao projetada: 20, duracao observada: 20
+chegada: 27, lancamento: 27, duracao projetada: 32, duracao observada: 32
+
+
+
+Dados Finais para: 
+ Numero de CPUS: 6
+ Quantidade de memória: 1024
+chegada: 0, lancamento: 0, duracao projetada: 12, duracao observada: 12
+chegada: 4, lancamento: 4, duracao projetada: 8, duracao observada: 8
+chegada: 0, lancamento: 0, duracao projetada: 14, duracao observada: 14
+chegada: 6, lancamento: 6, duracao projetada: 12, duracao observada: 12
+chegada: 8, lancamento: 8, duracao projetada: 15, duracao observada: 15
+chegada: 5, lancamento: 5, duracao projetada: 20, duracao observada: 20
+chegada: 12, lancamento: 12, duracao projetada: 23, duracao observada: 23
+chegada: 20, lancamento: 20, duracao projetada: 20, duracao observada: 20
+chegada: 27, lancamento: 27, duracao projetada: 32, duracao observada: 32
